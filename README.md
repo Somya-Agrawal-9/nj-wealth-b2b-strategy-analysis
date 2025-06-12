@@ -40,7 +40,7 @@ personalized service.
 
 ## 📄 Deliverables
 
-- [Internship Research Project 2024.pdf](https://github.com/Somya-Agrawal-9/nj-wealth-b2b-strategy-analysis./blob/main/Internship%20Research%20Project%202024.pdf)
+- [Click here to view the internship report](https://github.com/yourusername/nj-wealth-b2b-strategies/blob/main/InternshipResearchProject2024.pdf)
 
 
 ---
