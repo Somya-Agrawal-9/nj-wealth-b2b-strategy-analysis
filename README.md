@@ -48,5 +48,5 @@ personalized service.
 ## 📬 Connect with Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/somya-agrawal-analyst/)  
-📧 somya.agrawal@email.com
+📧 somya.agrawal936@email.com
 
