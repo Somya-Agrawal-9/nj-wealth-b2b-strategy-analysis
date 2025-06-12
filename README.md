@@ -40,7 +40,7 @@ personalized service.
 
 ## 📄 Deliverables
 
-- [Internship Research Project 2024.pdf](Internship Research Project 2024.pdf)
+- [Internship Research Project 2024.pdf]()
 
 
 ---
