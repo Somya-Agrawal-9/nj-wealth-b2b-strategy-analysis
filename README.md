@@ -4,8 +4,8 @@
 
 🎓 Author: Somya Agrawal  
 📅 Duration: September 2024 – December 2024  
-🏢 Institution: [Gyan Ganga Institute of Technology and Sciences, Jabalpur, (M.P.)]  
-🏛️ Company: NJ India Invest Pvt. Ltd. (NJ Wealth)
+🏢 Institution: Gyan Ganga Institute of Technology and Sciences, Jabalpur, (M.P.) 
+🏛️ Company: NJ India Invest Pvt. Ltd. (NJ Group)
 
 ---
 
